@@ -46,6 +46,8 @@ $ vagrant reload --provision
 
 **How-To:** Theme development with [Sage](https://roots.io/sage/), Laravel and Laravel Blade template system.
 
+Dentro del directorio _themes_ creamos el proyecto con composer:
+
 ```
 $ composer create-project roots/sage <your-project-name>
 
